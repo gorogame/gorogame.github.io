@@ -1,11 +1,4 @@
-window.onload=init;
-
 //not commenting this. enjoy my spaghetti
-
-function init() {
-    for (const type in currentClothing)
-        currentClothing[type] = 0;
-}
 
 var currentClothing = {};
 const numItems = {
