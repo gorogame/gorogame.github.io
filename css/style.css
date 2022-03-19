@@ -68,8 +68,30 @@ table {
     position:absolute;
     width:481px;
     height:987px;
-    background-image: url("../img/body.png");
+    background-image: url(../img/body.png);
 }
+
+#eyes{
+    position:absolute;
+    width:481px;
+    height:987px;
+    background-image: url(../img/eyes1.png);
+}
+
+#mouth{
+    position:absolute;
+    width:481px;
+    height:987px;
+    background-image: url(../img/mouth1.png);
+}
+
+#hair{
+    position:absolute;
+    width:481px;
+    height:987px;
+    background-image: url(../img/hair1.png);
+}
+
 
 #bottom{
     position:absolute;
