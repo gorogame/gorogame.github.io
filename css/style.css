@@ -66,37 +66,37 @@ table {
 
 #body{
     position:absolute;
-    width:481px;
-    height:987px;
+    width:500px;
+    height:1000px;
     background-image: url(../img/body.png);
 }
 
 #eyes{
     position:absolute;
-    width:481px;
-    height:987px;
+    width:500px;
+    height:1000px;
     background-image: url(../img/eyes1.png);
 }
 
 #mouth{
     position:absolute;
-    width:481px;
-    height:987px;
+    width:500px;
+    height:1000px;
     background-image: url(../img/mouth1.png);
 }
 
 #hair{
     position:absolute;
-    width:481px;
-    height:987px;
+    width:500px;
+    height:1000px;
     background-image: url(../img/hair1.png);
 }
 
 
 #bottom{
     position:absolute;
-    width:481px;
-    height:987px;
+    width:500px;
+    height:1000px;
 }
 
 .bottom1{background-image: url(../img/bottom1.png);}
@@ -105,27 +105,44 @@ table {
 
 #top{
     position:absolute;
-    width:481px;
-    height:987px;
+    width:500px;
+    height:1000px;
 }
 
 .top1{background-image: url(../img/top1.png);}
 .top2{background-image: url(../img/top2.png);}
 .top3{background-image: url(../img/top3.png);}
 
+#dress{
+    position:absolute;
+    width:500px;
+    height:1000px;
+}
+
+.dress1{background-image: url(../img/dress1.png);}
+.dress2{background-image: url(../img/dress2.png);}
+
 #socks{
     position:absolute;
-    width:481px;
-    height:987px;
+    width:500px;
+    height:1000px;
 }
 
 .socks1{background-image: url(../img/socks1.png);}
 .socks2{background-image: url(../img/socks2.png);}
 
+#accessory{
+    position:absolute;
+    width:500px;
+    height:1000px;
+}
+
+.accessory1{background-image: url(../img/accessory1.png);}
+
 #shoes{
     position:absolute;
-    width:481px;
-    height:987px;
+    width:500px;
+    height:1000px;
 }
 
 .shoes1{background-image: url(../img/shoes1.png);}
@@ -219,7 +236,7 @@ table {
 
 @media (min-width: 768px) {
     .button-74 {
-        min-width: 120px;
+        min-width: 50px;
         padding: 0 25px;
     }
 }

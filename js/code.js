@@ -5,7 +5,9 @@ const numItems = {
     "top": 3,
     "bottom": 3,
     "socks": 2,
-    "shoes": 2
+    "shoes": 2,
+    "dress": 2,
+    "accessory": 1
 };
 
 function nextItem(itemType) {
